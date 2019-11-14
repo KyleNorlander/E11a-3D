@@ -1,1 +1,1 @@
-Very helpful tutrials. The viewport is getting easier to navigate by the day. Completed the assignment. My ball moves, strafes, and jumps. The camera can also determine which direction the ball is going. There are boxes around the player that can be knocked over. Good assignment! 
+Very helpful tutorials. The viewport is getting easier to navigate by the day. My ball moves, strafes, and jumps. The camera can also determine which direction the ball is going. There are boxes around the player that can be knocked over. Good assignment! 
